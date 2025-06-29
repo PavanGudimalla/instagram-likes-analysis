@@ -1,24 +1,20 @@
-Instagram Likes Analysis
-This project looks at what makes Instagram posts get more likes. The data comes from a public food page called Old City Foodies.
+# Instagram Likes Analysis 
 
-Tools Used
-R and Radiant for data analysis and building models
+This research analyzes Instagram posts from a food content page **(Old City Foodies)** using regression and sentiment analysis in R.
 
-Excel Solver to find the best way to increase likes
+##  Tools Used
+- R & Radiant (for modeling)
+- Excel Solver (for optimization)
+- Apify (for data scraping)
 
-Apify to collect post data from Instagram
+## Key Insights
+- Video plays and hashtags significantly increase likes
+- Surprisingly, more comments are linked to fewer likes
+- Positive sentiment captions receive more likes
 
-Key Findings
-Posts with more video plays and hashtags get more likes
+## Files
+- `Instagram_Analysis_Report.pdf` – Full regression + sentiment analysis report
+- `likes_optimization.xlsx` – Excel model to maximize predicted likes
+- `analysis_script.R` – R code for analysis
 
-Posts with more comments actually had fewer likes (possibly spam or negative comments)
-
-Captions with positive sentiment tend to get more likes
-
-Files Included
-Instagram_Analysis_Report.pdf: Summary of the data and models
-
-likes_optimization.xlsx: Excel model to find the best settings for more likes
-
-analysis_script.R: R code used for the analysis
 
