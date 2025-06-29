@@ -13,8 +13,7 @@ This research analyzes Instagram posts from a food content page **(Old City Food
 - Positive sentiment captions receive more likes
 
 ## Files
-- `Instagram_Analysis_Report.pdf` – Full regression + sentiment analysis report
-- `likes_optimization.xlsx` – Excel model to maximize predicted likes
-- `analysis_script.R` – R code for analysis
+-  Excel model to maximize predicted likes
+- R code for analysis
 
 
